@@ -1,2 +1,2 @@
-# REAL-or-FAKE-JOB-DETECTION-USING-MACHINE-LEARNING
-This project detects fake job postings using Machine Learning with a Random Forest algorithm. By applying NLP techniques to job descriptions and metadata, it classifies listings as real or fraudulent to help prevent online job scams.
+# CYBER BULLYING-DETECTION-USING-MACHINE-LEARNING
+This project detects cyberbullying using Machine Learning with the Naive Bayes algorithm. It uses NLP techniques to analyze and classify text data from social media, helping identify harmful or abusive content online.
